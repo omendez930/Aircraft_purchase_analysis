@@ -1,0 +1,8 @@
+Make,Injury.Severity,Aircraft.damage,Aircraft.Category,Engine.Type,Number_of_Aircrafts
+Airbus,Non-Fatal,Minor,Airplane,Turbo Fan,17
+Beech,Non-Fatal,Minor,Airplane,Turbo Prop,10
+Boeing,Non-Fatal,Minor,Airplane,Turbo Fan,59
+Bombardier Inc,Non-Fatal,Minor,Airplane,Turbo Fan,10
+Cessna,Non-Fatal,Minor,Airplane,Reciprocating,42
+Embraer,Non-Fatal,Minor,Airplane,Turbo Fan,11
+Piper,Non-Fatal,Minor,Airplane,Reciprocating,20
