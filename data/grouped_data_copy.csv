@@ -1,47 +1,49 @@
 Make,Injury.Severity,Aircraft.damage,Aircraft.Category,Engine.Type,Number_of_Aircrafts
 2007 Savage Air Llc,Non-Fatal,Minor,Airplane,Turbo Prop,1
 Aero Vodochody,Non-Fatal,Minor,Airplane,Turbo Fan,1
-Aeronca,Non-Fatal,Minor,Airplane,Reciprocating,1
 Aerospatiale,Non-Fatal,Minor,Helicopter,Turbo Shaft,1
 Aerotek Inc,Non-Fatal,Minor,Airplane,Reciprocating,1
-Agusta,Non-Fatal,Minor,Helicopter,Turbo Shaft,4
-Air Tractor,Non-Fatal,Minor,Airplane,Turbo Prop,1
+Agusta,Non-Fatal,Minor,Helicopter,Turbo Shaft,5
+Air Tractor,Non-Fatal,Minor,Airplane,Turbo Prop,2
 Air Tractor Inc,Non-Fatal,Minor,Airplane,Turbo Prop,2
 Airbus,Non-Fatal,Minor,Airplane,Geared Turbofan,1
-Airbus,Non-Fatal,Minor,Airplane,Turbo Fan,13
+Airbus,Non-Fatal,Minor,Airplane,Turbo Fan,16
 Airbus Helicopters,Non-Fatal,Minor,Helicopter,Turbo Shaft,1
-Airbus Industrie,Non-Fatal,Minor,Airplane,Turbo Fan,6
+Airbus Industrie,Non-Fatal,Minor,Airplane,Turbo Fan,5
 Airbus Industrie,Non-Fatal,Minor,Airplane,Turbo Jet,2
-Atr,Non-Fatal,Minor,Airplane,Turbo Prop,1
+Atr,Non-Fatal,Minor,Airplane,Turbo Prop,3
 Aviat Inc,Non-Fatal,Minor,Airplane,Reciprocating,2
-Ayres,Non-Fatal,Minor,Airplane,Reciprocating,1
+Bae Systems (Operations) Limit,Non-Fatal,Minor,Airplane,Turbo Fan,1
 Balloon Works,Non-Fatal,Minor,Balloon,Unknown,1
 Beech,Non-Fatal,Minor,Airplane,Reciprocating,8
-Beech,Non-Fatal,Minor,Airplane,Turbo Prop,10
-Bell,Non-Fatal,Minor,Helicopter,Turbo Shaft,10
+Beech,Non-Fatal,Minor,Airplane,Turbo Prop,9
+Bell,Non-Fatal,Minor,Helicopter,Turbo Shaft,11
 Bell Helicopter Textron Canada,Non-Fatal,Minor,Helicopter,Turbo Shaft,1
 Bellanca,Non-Fatal,Minor,Airplane,Reciprocating,3
 Bennett,Non-Fatal,Minor,Airplane,Reciprocating,1
 Boeing,Non-Fatal,Minor,Airplane,Reciprocating,4
-Boeing,Non-Fatal,Minor,Airplane,Turbo Fan,40
-Boeing,Non-Fatal,Minor,Airplane,Turbo Jet,2
-Bombardier,Non-Fatal,Minor,Airplane,Turbo Fan,3
+Boeing,Non-Fatal,Minor,Airplane,Turbo Fan,55
+Boeing,Non-Fatal,Minor,Airplane,Turbo Jet,4
+Boeing Company,Non-Fatal,Minor,Airplane,Turbo Fan,1
+Bombardier,Non-Fatal,Minor,Airplane,Turbo Fan,4
 Bombardier,Non-Fatal,Minor,Airplane,Turbo Jet,2
 Bombardier,Non-Fatal,Minor,Airplane,Turbo Prop,1
 Bombardier,Non-Fatal,Minor,Airplane,Turbo Shaft,1
-Bombardier Inc,Non-Fatal,Minor,Airplane,Turbo Fan,9
+Bombardier Inc,Non-Fatal,Minor,Airplane,Turbo Fan,10
 Bombardier Inc,Non-Fatal,Minor,Airplane,Turbo Prop,2
 Bombardier Learjet Corp.,Non-Fatal,Minor,Airplane,Turbo Fan,1
 British Aerospace,Non-Fatal,Minor,Airplane,Turbo Prop,1
 Buckeye,Non-Fatal,Minor,Powered Parachute,Reciprocating,2
 Burg Frederick S,Non-Fatal,Minor,Airplane,Reciprocating,1
 Campbell Earl S Jr,Non-Fatal,Minor,Airplane,Reciprocating,1
-Cessna,Non-Fatal,Minor,Airplane,Reciprocating,40
-Cessna,Non-Fatal,Minor,Airplane,Turbo Fan,8
+Cessna,Non-Fatal,Minor,Airplane,Reciprocating,42
+Cessna,Non-Fatal,Minor,Airplane,Turbo Fan,9
 Cessna,Non-Fatal,Minor,Airplane,Turbo Jet,2
 Cessna,Non-Fatal,Minor,Airplane,Turbo Prop,1
 Cessna Aircraft Co,Non-Fatal,Minor,Airplane,Reciprocating,1
+Cessna Aircraft Company,Non-Fatal,Minor,Airplane,Turbo Fan,1
 Cirrus,Non-Fatal,Minor,Airplane,Reciprocating,2
+Cirrus,Non-Fatal,Minor,Airplane,Turbo Jet,1
 Cirrus Design Corp,Non-Fatal,Minor,Airplane,Reciprocating,8
 Cirrus Design Corp,Non-Fatal,Minor,Airplane,Turbo Fan,1
 Cirrus Design Corporation,Non-Fatal,Minor,Airplane,Reciprocating,1
@@ -52,15 +54,15 @@ Consolidated Vultee,Non-Fatal,Minor,Airplane,Reciprocating,1
 Curtiss Wright,Non-Fatal,Minor,Airplane,Reciprocating,1
 Dassault-Breguet,Non-Fatal,Minor,Airplane,Turbo Fan,1
 De Havilland,Non-Fatal,Minor,Airplane,Turbo Prop,1
-Degelia,Non-Fatal,Minor,Gyrocraft,Reciprocating,1
 Dehavilland,Non-Fatal,Minor,Airplane,Reciprocating,1
 Dehavilland,Non-Fatal,Minor,Airplane,Turbo Prop,2
 Destiny,Non-Fatal,Minor,Powered Parachute,Reciprocating,1
 Diamond,Non-Fatal,Minor,Airplane,Reciprocating,1
 Diamond Aircraft Ind Inc,Non-Fatal,Minor,Airplane,Reciprocating,3
 Douglas,Non-Fatal,Minor,Airplane,Reciprocating,1
+Douglas,Non-Fatal,Minor,Airplane,Turbo Fan,1
 Eclipse Aviation Corporation,Non-Fatal,Minor,Airplane,Turbo Fan,1
-Embraer,Non-Fatal,Minor,Airplane,Turbo Fan,10
+Embraer,Non-Fatal,Minor,Airplane,Turbo Fan,11
 Embraer,Non-Fatal,Minor,Airplane,Turbo Jet,1
 Embraer,Non-Fatal,Minor,Airplane,Turbo Prop,3
 Enstrom,Non-Fatal,Minor,Helicopter,Reciprocating,1
@@ -71,7 +73,6 @@ Extra Flugzeugproduktions-Und,Non-Fatal,Minor,Airplane,Reciprocating,1
 Fairchild,Non-Fatal,Minor,Airplane,Turbo Prop,1
 Flight Design,Non-Fatal,Minor,Airplane,Reciprocating,1
 Flight Design Gmbh,Non-Fatal,Minor,Airplane,Reciprocating,1
-Franz,Non-Fatal,Minor,Airplane,Reciprocating,1
 Funk Ralph,Non-Fatal,Minor,Airplane,Reciprocating,1
 Gates Learjet,Non-Fatal,Minor,Airplane,Turbo Jet,1
 Great Lakes,Non-Fatal,Minor,Airplane,Reciprocating,2
@@ -80,7 +81,7 @@ Gulfstream,Non-Fatal,Minor,Airplane,Turbo Fan,2
 Gulfstream Aerospace,Non-Fatal,Minor,Airplane,Turbo Fan,2
 Gulfstream American Corp.,Non-Fatal,Minor,Airplane,Turbo Jet,1
 Hawker Beechcraft Corp.,Non-Fatal,Minor,Airplane,Reciprocating,1
-Hawker Beechcraft Corp.,Non-Fatal,Minor,Airplane,Turbo Prop,2
+Hawker Beechcraft Corp.,Non-Fatal,Minor,Airplane,Turbo Prop,3
 Head,Non-Fatal,Minor,Balloon,Unknown,1
 Hill,Non-Fatal,Minor,Airplane,Reciprocating,1
 Hiller,Non-Fatal,Minor,Powered Parachute,Reciprocating,1
@@ -96,12 +97,12 @@ Israel Aircraft Industries,Non-Fatal,Minor,Airplane,Turbo Fan,1
 Krusmark David Homer,Non-Fatal,Minor,Airplane,Reciprocating,1
 Learjet,Non-Fatal,Minor,Airplane,Turbo Fan,1
 Liberty Aerospace Incorporated,Non-Fatal,Minor,Airplane,Reciprocating,1
-Lockheed,Non-Fatal,Minor,Airplane,Turbo Fan,1
 Martin Charles A,Non-Fatal,Minor,Airplane,Reciprocating,1
 Mcdonnell Douglas,Non-Fatal,Minor,Airplane,Turbo Fan,5
 Mcdonnell Douglas,Non-Fatal,Minor,Airplane,Turbo Jet,3
+Mcdonnell Douglas Aircraft Co,Non-Fatal,Minor,Airplane,Turbo Fan,1
 Mcdonnell Douglas Helicopter,Non-Fatal,Minor,Helicopter,Turbo Shaft,1
-Mcdonnell-Douglas,Non-Fatal,Minor,Airplane,Turbo Fan,1
+Mcdonnell-Douglas,Non-Fatal,Minor,Airplane,Turbo Fan,2
 Md Helicopter,Non-Fatal,Minor,Helicopter,Turbo Shaft,1
 Md Helicopter Inc,Non-Fatal,Minor,Helicopter,Turbo Shaft,2
 Md Helicopters Inc,Non-Fatal,Minor,Helicopter,Turbo Shaft,1
@@ -117,19 +118,19 @@ P&M Aviation Ltd,Non-Fatal,Minor,Weight-Shift,Reciprocating,1
 Piaggio,Non-Fatal,Minor,Airplane,Turbo Prop,1
 Pilatus,Non-Fatal,Minor,Airplane,Turbo Prop,1
 Pilatus Aircraft Ltd,Non-Fatal,Minor,Airplane,Turbo Prop,1
-Piper,Non-Fatal,Minor,Airplane,Reciprocating,18
+Piper,Non-Fatal,Minor,Airplane,Reciprocating,20
 Piper,Non-Fatal,Minor,Airplane,Turbo Prop,2
 Powrachute Corp,Non-Fatal,Minor,Powered Parachute,Reciprocating,1
 Powrachute Llc,Non-Fatal,Minor,Powered Parachute,Reciprocating,1
 Quest,Non-Fatal,Minor,Airplane,Turbo Prop,1
-Quicksilver,Non-Fatal,Minor,Airplane,Reciprocating,1
 Raven,Non-Fatal,Minor,Balloon,Unknown,2
 Raytheon,Non-Fatal,Minor,Airplane,Turbo Fan,1
 Raytheon Aircraft Company,Non-Fatal,Minor,Airplane,Turbo Fan,4
 Raytheon Aircraft Company,Non-Fatal,Minor,Airplane,Turbo Prop,3
 Reims Aviation S.A.,Non-Fatal,Minor,Airplane,Reciprocating,1
-Robinson,Non-Fatal,Minor,Helicopter,Reciprocating,1
+Robinson,Non-Fatal,Minor,Helicopter,Reciprocating,2
 Robinson Helicopter,Non-Fatal,Minor,Helicopter,Reciprocating,1
+Robinson Helicopter Company,Non-Fatal,Minor,Helicopter,Reciprocating,1
 Rockwell,Non-Fatal,Minor,Airplane,Reciprocating,1
 Rockwell International,Non-Fatal,Minor,Airplane,Reciprocating,1
 Schlichtman,Non-Fatal,Minor,Airplane,Reciprocating,1
@@ -141,8 +142,9 @@ Spani Wayne M,Non-Fatal,Minor,Airplane,Reciprocating,1
 Starduster Ii,Non-Fatal,Minor,Airplane,Reciprocating,1
 Swearingen,Non-Fatal,Minor,Airplane,Turbo Prop,2
 T Bird,Non-Fatal,Minor,Airplane,Reciprocating,1
-Taylorcraft,Non-Fatal,Minor,Airplane,Reciprocating,3
+Taylorcraft,Non-Fatal,Minor,Airplane,Reciprocating,2
 "Thunder Balloons, Ltd.",Non-Fatal,Minor,Balloon,Unknown,1
+Tomisin Thomas J,Non-Fatal,Minor,Airplane,Reciprocating,1
 Trudel,Non-Fatal,Minor,Airplane,Reciprocating,1
 Ttx Air Llc,Non-Fatal,Minor,Airplane,Turbo Prop,1
 Ultramagic Sa,Non-Fatal,Minor,Airplane,Unknown,1
