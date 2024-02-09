@@ -1,13 +1,13 @@
-Make,Injury.Severity,Aircraft.damage,Aircraft.Category,Engine.Type,Number_of_Aircrafts
-Airbus,Non-Fatal,Minor,Airplane,Turbo Fan,16
-Airbus Industrie,Non-Fatal,Minor,Airplane,Turbo Fan,5
-Beech,Non-Fatal,Minor,Airplane,Reciprocating,8
-Beech,Non-Fatal,Minor,Airplane,Turbo Prop,9
-Boeing,Non-Fatal,Minor,Airplane,Turbo Fan,55
-Bombardier Inc,Non-Fatal,Minor,Airplane,Turbo Fan,10
-Cessna,Non-Fatal,Minor,Airplane,Reciprocating,42
-Cessna,Non-Fatal,Minor,Airplane,Turbo Fan,9
-Cirrus Design Corp,Non-Fatal,Minor,Airplane,Reciprocating,8
-Embraer,Non-Fatal,Minor,Airplane,Turbo Fan,11
-Mcdonnell Douglas,Non-Fatal,Minor,Airplane,Turbo Fan,5
-Piper,Non-Fatal,Minor,Airplane,Reciprocating,20
+Make,Injury.Severity,Aircraft.Category,Aircraft.damage,Engine.Type,Number_of_Aircrafts
+Airbus,Non-Fatal,Airplane,Minor,Turbo Fan,16
+Airbus Industrie,Non-Fatal,Airplane,Minor,Turbo Fan,5
+Beech,Non-Fatal,Airplane,Minor,Reciprocating,8
+Beech,Non-Fatal,Airplane,Minor,Turbo Prop,9
+Boeing,Non-Fatal,Airplane,Minor,Turbo Fan,55
+Bombardier Inc,Non-Fatal,Airplane,Minor,Turbo Fan,10
+Cessna,Non-Fatal,Airplane,Minor,Reciprocating,42
+Cessna,Non-Fatal,Airplane,Minor,Turbo Fan,9
+Cirrus Design Corp,Non-Fatal,Airplane,Minor,Reciprocating,8
+Embraer,Non-Fatal,Airplane,Minor,Turbo Fan,11
+Mcdonnell Douglas,Non-Fatal,Airplane,Minor,Turbo Fan,5
+Piper,Non-Fatal,Airplane,Minor,Reciprocating,20
