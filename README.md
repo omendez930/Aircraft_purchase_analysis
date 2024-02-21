@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Aviation Accident Database Analysis
 
 ## Introduction  
