@@ -1,12 +1,17 @@
 # Aviation Accident Database Analysis
+![Airplane wallpaper](./images/airplane_img.jpg)
 
 ## Introduction  
 
 This repository contains a dataset obtained from Kaggle, comprising of avaiation accidents. The dataset. The dataset contains a wide range of information regarding aviation accidents, including factors such as location, date, injuries, type of aircraft, and fatalities among other information.
 
+## Business overview: Aircraft Purchase Strategy Based on Safety Analysis
+
+This repository focuses aims to provide insights into incorporating accident data and safety features analysis into the aircraft procurement strategy. Analyzing accident data and understanding safety features can significantly inform decision-making processes regarding aircraft purchase.
+
 ## Dataset Description
 
-The dataset consists of a single file named 'AviationData.csv'. It contains the following colimns:
+The dataset consists of a single file named 'AviationData.csv'. It contains the following columns:
 
 * Event Id: A unique identifier for each accident event.
 * Investigation Type: Categorization of the type of investigation conducted.
@@ -35,7 +40,7 @@ The primary goal of this analysis is to explore the provided aviation accident d
 1. Injury Analysis: Explore the severity and distribution of injuries resulting from accidents.
 2. Aircraft Analysis: Examine characteristics and factors related to differnt aircrafts involved in accidents.
 
-## Getting Started
+## Mehodology
 
 Follow the steps below, to start your analysis:
 
@@ -49,14 +54,51 @@ Follow the steps below, to start your analysis:
 
 5. Document Findings: Document your findings and insights obtained from the analysis
 
-## Additional Notes
+6. Present Findings: Using visualization tool, illustrate my findings. You can locate my tableau dashboard here: [AircraftAnalysisDashboard](https://public.tableau.com/views/AircraftAnalysisproject-1/Aircraftpurchasedashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
-* Data Preprocessing: Some preprocessing may be required, such as handlind missing values or converting data types, before conducting the analysis.
+## Results
 
-* Visualization: Utilize visualizations such as bar charts, hsitograms, and line charts to aid in understanding the data.
+#### Accident Analysis
+
+Assessing damage categories that fall under the **Non-Fatal** and **Minor** Categories we found the following:
+
+
+* Accident Frequency: Determine the frequenct of accidents over time.
+
+![Accidentsovertime](./images/Aviation_accidents_from_1948_to_2023.png)
+
+* Accident Severity
+
+![Accidentseverity](./images/Aircrafts_with_minor_and_fatal_incidents.png)
+
+* Number of Engines
+
+![Numberofengines](./images/Aircraft_damage_vs_Number_of_engines.png)
+
+
+## Next Steps
+
+The safety features provided in the data, provides a better look at which aircraft has the safest number of engines for aircrafts
+Number of eninges: **2.0** and more. 
+
+![Enginesperaircraft](./images/Number_of_engines.png)
+
+The best engine for aircrafts: **Reciprocating**
+
+Optimal weather conditions: **VMC**
+
+
+
+### Conclusion
+
+In condlusion, after assessing the information, focusing on safety features, accidents, and injury. We are able to concluse that best aircrafts available for commercial and private use are:
+
+1. **Boeing**: commercial use
+2. **Cessna**: private use
+3. **Airbus**: commercial and prviate use
+
+* As a bonus, we can also choose aircrafts manufactures from **Piper** for **private** use.
 
 ## Contributors
 
-* Orangel Mendez
-=======
-
+* Orangel Mendez - omendez30@gmail.com
