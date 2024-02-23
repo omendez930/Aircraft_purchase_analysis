@@ -65,7 +65,7 @@ Assessing damage categories that fall under the **Non-Fatal** and **Minor** Cate
 
 * Accident Frequency: Determine the frequenct of accidents over time.
 
-![Accidentsovertime](./images/Aviation_accidents_from_1948_to_2023.png)
+![Accidentsovertime](./images/Number%20of%20occurences%20from%201948-2022.png)
 
 * Accident Severity
 
@@ -84,6 +84,8 @@ Number of eninges: **2.0** and more.
 ![Enginesperaircraft](./images/Number_of_engines.png)
 
 The best engine for aircrafts: **Reciprocating**
+
+![Injurybyenginetype](./images/injury_sverity_by_engine_type_tableau.png)
 
 Optimal weather conditions: **VMC**
 

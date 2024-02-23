@@ -1,16 +1,26 @@
 Make,Engine.Type,Number.of.Engines,Total_aircrafts
-Airbus,Turbo Fan,2.0,17
-Airbus Industrie,Turbo Fan,2.0,11
+Airbus,Turbo Fan,2.0,24
+Balloon Works,Unknown,1.0,10
+Beech,Reciprocating,1.0,6
 Beech,Reciprocating,2.0,12
-Beech,Turbo Prop,2.0,11
+Beech,Turbo Prop,2.0,10
 Bell,Turbo Shaft,1.0,13
-Boeing,Turbo Fan,2.0,61
+Boeing,Reciprocating,1.0,7
+Boeing,Turbo Fan,2.0,53
 Boeing,Turbo Fan,3.0,10
-Boeing,Turbo Fan,4.0,13
+Boeing,Turbo Fan,4.0,10
 Bombardier Inc,Turbo Fan,2.0,10
-Cessna,Reciprocating,1.0,107
+Cessna,Reciprocating,1.0,96
 Cessna,Reciprocating,2.0,17
+Cessna,Turbo Fan,2.0,9
+Cirrus Design Corp,Reciprocating,1.0,8
 Embraer,Turbo Fan,2.0,10
-North American,Reciprocating,1.0,12
-Piper,Reciprocating,1.0,37
+Grumman,Reciprocating,1.0,5
+Mcdonnell Douglas,Turbo Fan,2.0,7
+Mcdonnell Douglas,Turbo Jet,2.0,5
+Mooney,Reciprocating,1.0,6
+North American,Reciprocating,1.0,9
+Piper,Reciprocating,1.0,31
 Piper,Reciprocating,2.0,16
+Schweizer,Unknown,1.0,7
+Swearingen,Turbo Prop,2.0,5

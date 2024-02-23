@@ -1,6 +1,6 @@
 Make,Injury.Severity,Aircraft.Category,Aircraft.damage,Engine.Type,Number_of_Aircrafts
 Airbus,Non-Fatal,Airplane,Minor,Turbo Fan,16
-Airbus Industrie,Non-Fatal,Airplane,Minor,Turbo Fan,5
+Airbus,Non-Fatal,Airplane,Minor,Turbo Fan,5
 Beech,Non-Fatal,Airplane,Minor,Reciprocating,8
 Beech,Non-Fatal,Airplane,Minor,Turbo Prop,9
 Boeing,Non-Fatal,Airplane,Minor,Turbo Fan,55
