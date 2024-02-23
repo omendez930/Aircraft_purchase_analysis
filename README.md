@@ -69,7 +69,7 @@ Assessing damage categories that fall under the **Non-Fatal** and **Minor** Cate
 
 * Accident Severity
 
-![Accidentseverity](./images/Aircrafts_with_minor_and_fatal_incidents.png)
+![Accidentseverity](./images/Aircrafts_with_minor_and_nonfatal_incidents.png)
 
 * Number of Engines
 
