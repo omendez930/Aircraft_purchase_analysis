@@ -1,12 +1,12 @@
 Make,Aircraft.Category,Number.of.Engines,Make_count
-Airbus,Airplane,2.0,22
-Beech,Airplane,2.0,12
-Boeing,Airplane,2.0,45
-Boeing,Airplane,4.0,9
-Bombardier,Airplane,2.0,7
-Bombardier Inc,Airplane,2.0,12
-Cessna,Airplane,2.0,21
-Embraer,Airplane,2.0,14
-Mcdonnell Douglas,Airplane,2.0,6
-Piper,Airplane,2.0,6
+Airbus,Airplane,2.0,27
+Beech,Airplane,2.0,13
+Boeing,Airplane,2.0,76
+Boeing,Airplane,4.0,16
+Bombardier,Airplane,2.0,8
+Bombardier Inc,Airplane,2.0,14
+Cessna,Airplane,2.0,24
+Embraer,Airplane,2.0,16
+Mcdonnell Douglas,Airplane,2.0,7
+Piper,Airplane,2.0,9
 Raytheon Aircraft Company,Airplane,2.0,7
