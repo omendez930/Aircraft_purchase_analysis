@@ -161,4 +161,4 @@ cython_debug/
 
 
 #data and csv files
-*.csv
+data/
