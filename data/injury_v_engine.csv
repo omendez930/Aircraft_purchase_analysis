@@ -1,4 +1,4 @@
-Engine.Type,Fatal,Incident,Minor,Non-Fatal,Serious,Unavailable
+engine_type,Fatal,Incident,Minor,Non-Fatal,Serious,Unavailable
 Electric,2.0,,,6.0,,
 Geared Turbofan,,,,1.0,,
 Hybrid Rocket,1.0,,,,,
